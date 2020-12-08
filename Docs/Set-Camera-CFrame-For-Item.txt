@@ -1,0 +1,5 @@
+Set Camera CFrame for Item
+game.StarterGui.Shop.MainFrame.SafeArea.ItemInformation.ItemViewport.RocketLauncherHandle.CameraCFrame.Value = game.Workspace.CurrentCamera.CFrame
+print(game.StarterGui.Shop.MainFrame.SafeArea.ItemInformation.ItemViewport.RocketLauncherHandle.CameraCFrame.Value)
+
+
